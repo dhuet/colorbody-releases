@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ColorPickr</title>
+        <item>
+            <title>0.13.0</title>
+            <pubDate>Mon, 05 Oct 2026 22:11:24 +0000</pubDate>
+            <link>https://github.com/dhuet/colorbody-releases</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.13.0/ColorPickr-0.13.0.dmg" length="4656306" type="application/octet-stream" sparkle:edSignature="3J7Y7Scx715nt6ZpvCo2pQ01RlLKkCfPJSyjdF9mw6vl3CJs0+Cov4oqV0JArMnLAWG2tFBY0uxZw0wK+/8aAw=="/>
+        </item>
+    </channel>
+</rss>
