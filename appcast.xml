@@ -3,6 +3,16 @@
     <channel>
         <title>ColorPickr</title>
         <item>
+            <title>0.13.1</title>
+            <pubDate>Mon, 05 Oct 2026 23:10:21 +0000</pubDate>
+            <link>https://github.com/dhuet/colorbody-releases</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>A designed installer: open the DMG and drag ColorPickr onto Applications, following the arrow.</li><li>Opened ColorPickr from the installer or Downloads? It offers to move itself to Applications, reopens from there and ejects the installer.</li><li>Updates show up in the menu bar: a dot on the eyedropper and an <b>Update</b> button in the panel, with the release notes one click away. No pop-ups while you work.</li><li>Settings › Updates can download updates in the background, ready to install when you quit.</li></ul>]]></description>
+            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.13.1/ColorPickr-0.13.1.dmg" length="5662589" type="application/octet-stream" sparkle:edSignature="BVVDo0wzuM/aPesR4L5gnPuPxhKzW1bbs4CSGIyVUrM9Pn1ocFbidJsE6IefY4R1w+ipCC4v77tQg7364lILBA=="/>
+        </item>
+        <item>
             <title>0.13.0</title>
             <pubDate>Mon, 05 Oct 2026 22:11:24 +0000</pubDate>
             <link>https://github.com/dhuet/colorbody-releases</link>
