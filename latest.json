@@ -1,0 +1,21 @@
+{
+  "version": "0.13.1",
+  "date": "2026-10-05",
+  "notes": [
+    "A designed installer: open the DMG and drag ColorPickr onto Applications, following the arrow.",
+    "Opened ColorPickr from the installer or Downloads? It offers to move itself to Applications, reopens from there and ejects the installer.",
+    "Updates show up in the menu bar: a dot on the eyedropper and an **Update** button in the panel, with the release notes one click away. No pop-ups while you work.",
+    "Settings › Updates can download updates in the background, ready to install when you quit."
+  ],
+  "notesPlain": [
+    "A designed installer: open the DMG and drag ColorPickr onto Applications, following the arrow.",
+    "Opened ColorPickr from the installer or Downloads? It offers to move itself to Applications, reopens from there and ejects the installer.",
+    "Updates show up in the menu bar: a dot on the eyedropper and an Update button in the panel, with the release notes one click away. No pop-ups while you work.",
+    "Settings › Updates can download updates in the background, ready to install when you quit."
+  ],
+  "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.13.1",
+  "minimumMacOS": "14.0",
+  "download": "https://github.com/dhuet/colorbody-releases/releases/download/v0.13.1/ColorPickr-0.13.1.dmg",
+  "downloadVersioned": "https://github.com/dhuet/colorbody-releases/releases/download/v0.13.1/ColorPickr-0.13.1.dmg",
+  "releasesPage": "https://github.com/dhuet/colorbody-releases/releases"
+}

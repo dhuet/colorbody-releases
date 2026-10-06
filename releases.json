@@ -1,0 +1,290 @@
+{
+  "latest": "0.13.1",
+  "releases": [
+    {
+      "version": "0.13.1",
+      "date": "2026-10-05",
+      "notes": [
+        "A designed installer: open the DMG and drag ColorPickr onto Applications, following the arrow.",
+        "Opened ColorPickr from the installer or Downloads? It offers to move itself to Applications, reopens from there and ejects the installer.",
+        "Updates show up in the menu bar: a dot on the eyedropper and an **Update** button in the panel, with the release notes one click away. No pop-ups while you work.",
+        "Settings › Updates can download updates in the background, ready to install when you quit."
+      ],
+      "notesPlain": [
+        "A designed installer: open the DMG and drag ColorPickr onto Applications, following the arrow.",
+        "Opened ColorPickr from the installer or Downloads? It offers to move itself to Applications, reopens from there and ejects the installer.",
+        "Updates show up in the menu bar: a dot on the eyedropper and an Update button in the panel, with the release notes one click away. No pop-ups while you work.",
+        "Settings › Updates can download updates in the background, ready to install when you quit."
+      ],
+      "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.13.1"
+    },
+    {
+      "version": "0.13.0",
+      "date": "2026-10-05",
+      "notes": [
+        "**Palette Studio** (⇧⌘G): press Space for a new palette. Lock the colors you love and reroll the rest. Every roll includes a light and a dark color that are easy to read together.",
+        "**Contrast Checker**: one text color on one background, previewed as headlines, body text, small print and buttons. Pick both from the screen and fix either in one click.",
+        "**Value Study** on mood boards: see your board in grayscale, three values, or light and dark to check a composition before color.",
+        "New formats: HSB and CMYK.",
+        "New exports: Procreate Swatches, SCSS, Material UI, Flutter, Jetpack Compose and CSV."
+      ],
+      "notesPlain": [
+        "Palette Studio (⇧⌘G): press Space for a new palette. Lock the colors you love and reroll the rest. Every roll includes a light and a dark color that are easy to read together.",
+        "Contrast Checker: one text color on one background, previewed as headlines, body text, small print and buttons. Pick both from the screen and fix either in one click.",
+        "Value Study on mood boards: see your board in grayscale, three values, or light and dark to check a composition before color.",
+        "New formats: HSB and CMYK.",
+        "New exports: Procreate Swatches, SCSS, Material UI, Flutter, Jetpack Compose and CSV."
+      ],
+      "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.13.0"
+    },
+    {
+      "version": "0.12.0",
+      "date": null,
+      "notes": [
+        "ColorBody is now **ColorPickr**. Same app, new name: your boards, palettes, themes, shortcuts and Screen Recording permission all carry over.",
+        "If you turned on \"Open when I log in\", check it once in Settings › General, since macOS may list the login item under the old name."
+      ],
+      "notesPlain": [
+        "ColorBody is now ColorPickr. Same app, new name: your boards, palettes, themes, shortcuts and Screen Recording permission all carry over.",
+        "If you turned on \"Open when I log in\", check it once in Settings › General, since macOS may list the login item under the old name."
+      ],
+      "url": null
+    },
+    {
+      "version": "0.11.2",
+      "date": null,
+      "notes": [
+        "Colors from a website waits for the page to finish: loading screens, fonts, images and late content. The colors come from what the page actually shows, including styles added by JavaScript.",
+        "While it works, ColorBody shows each step (opening, loading all content, loading images further down, collecting colors) and tells you when a site is taking longer."
+      ],
+      "notesPlain": [
+        "Colors from a website waits for the page to finish: loading screens, fonts, images and late content. The colors come from what the page actually shows, including styles added by JavaScript.",
+        "While it works, ColorBody shows each step (opening, loading all content, loading images further down, collecting colors) and tells you when a site is taking longer."
+      ],
+      "url": null
+    },
+    {
+      "version": "0.11.1",
+      "date": null,
+      "notes": [
+        "Undo and Redo now work from the Edit menu and with ⌘Z and ⇧⌘Z, and the menu names what it will undo."
+      ],
+      "notesPlain": [
+        "Undo and Redo now work from the Edit menu and with ⌘Z and ⇧⌘Z, and the menu names what it will undo."
+      ],
+      "url": null
+    },
+    {
+      "version": "0.11.0",
+      "date": null,
+      "notes": [
+        "Undo and redo (⌘Z, ⇧⌘Z) for boards, palettes and themes, including deleted images and boards.",
+        "A new first-run guide: pick, collect, make a theme, then start where you like.",
+        "What's New opens once after each update.",
+        "Your data is backed up automatically before a new version reads it.",
+        "Help › Send Feedback opens a report with your versions filled in.",
+        "Plainer words: picks say \"Easy to read\", \"Big text only\" or \"Hard to read\". The empty Library shows where to start."
+      ],
+      "notesPlain": [
+        "Undo and redo (⌘Z, ⇧⌘Z) for boards, palettes and themes, including deleted images and boards.",
+        "A new first-run guide: pick, collect, make a theme, then start where you like.",
+        "What's New opens once after each update.",
+        "Your data is backed up automatically before a new version reads it.",
+        "Help › Send Feedback opens a report with your versions filled in.",
+        "Plainer words: picks say \"Easy to read\", \"Big text only\" or \"Hard to read\". The empty Library shows where to start."
+      ],
+      "url": null
+    },
+    {
+      "version": "0.10.0",
+      "date": null,
+      "notes": [
+        "Make Theme now offers four finished themes from your colors (Brand, Calm, Bold and Midnight), shown on a real website, app and dashboard in light and dark. Every one is easy to read before you touch it.",
+        "Edit a theme by clicking the preview: click a button, a card or the background and choose its color. A check or a warning tells you if everything stays easy to read, and Make It Readable fixes it.",
+        "Themes made from a mood board live on its canvas as a live preview and appear in its brand sheet.",
+        "Colors from a website: paste an address and get a mood board with a screenshot of the page and the colors its design uses most. Paste a link on any board to add a site."
+      ],
+      "notesPlain": [
+        "Make Theme now offers four finished themes from your colors (Brand, Calm, Bold and Midnight), shown on a real website, app and dashboard in light and dark. Every one is easy to read before you touch it.",
+        "Edit a theme by clicking the preview: click a button, a card or the background and choose its color. A check or a warning tells you if everything stays easy to read, and Make It Readable fixes it.",
+        "Themes made from a mood board live on its canvas as a live preview and appear in its brand sheet.",
+        "Colors from a website: paste an address and get a mood board with a screenshot of the page and the colors its design uses most. Paste a link on any board to add a site."
+      ],
+      "url": null
+    },
+    {
+      "version": "0.9.0",
+      "date": null,
+      "notes": [
+        "Floating palette: keep a board or palette over every app and Space with ⌃⌥P. Click to copy, drag colors into any app, add your latest pick in one click, and keep a board's references in view. Drop it near an edge or corner and it snaps there.",
+        "A prominent Pick button in the floating palette, the Library and the Color Wheel. It picks into where you are: the floating palette's project, the open board (as a chip) or the wheel's base color. ⇧-click to pick several in a row."
+      ],
+      "notesPlain": [
+        "Floating palette: keep a board or palette over every app and Space with ⌃⌥P. Click to copy, drag colors into any app, add your latest pick in one click, and keep a board's references in view. Drop it near an edge or corner and it snaps there.",
+        "A prominent Pick button in the floating palette, the Library and the Color Wheel. It picks into where you are: the floating palette's project, the open board (as a chip) or the wheel's base color. ⇧-click to pick several in a row."
+      ],
+      "url": null
+    },
+    {
+      "version": "0.8.1",
+      "date": null,
+      "notes": [
+        "The board canvas is lighter in light mode and a deep gray in dark mode, so your references stand out.",
+        "New items wrap into rows instead of running off the side, and new images start larger.",
+        "Boards that don't fit the window open zoomed to fit."
+      ],
+      "notesPlain": [
+        "The board canvas is lighter in light mode and a deep gray in dark mode, so your references stand out.",
+        "New items wrap into rows instead of running off the side, and new images start larger.",
+        "Boards that don't fit the window open zoomed to fit."
+      ],
+      "url": null
+    },
+    {
+      "version": "0.8.0",
+      "date": null,
+      "notes": [
+        "Mood boards are now a freeform canvas: drag images anywhere, resize them, add notes, and keep picked colors as chips beside your references. Tidy Up, zoom, and a grid view when you want one.",
+        "Area picks land on a board: drag a rectangle on screen with ⌃⌥C and that part of the screen joins the board you opened last, palette and all.",
+        "Brand sheets: a one-page PDF or PNG of a board, palette or theme, with references, color values and passing text pairs, ready to send."
+      ],
+      "notesPlain": [
+        "Mood boards are now a freeform canvas: drag images anywhere, resize them, add notes, and keep picked colors as chips beside your references. Tidy Up, zoom, and a grid view when you want one.",
+        "Area picks land on a board: drag a rectangle on screen with ⌃⌥C and that part of the screen joins the board you opened last, palette and all.",
+        "Brand sheets: a one-page PDF or PNG of a board, palette or theme, with references, color values and passing text pairs, ready to send."
+      ],
+      "url": null
+    },
+    {
+      "version": "0.7.0",
+      "date": null,
+      "notes": [
+        "Mood boards: drop, paste or choose images and get one palette from all of them. Pick exact colors from any image with the eyedropper. Palettes saved from a board keep its images as their reference.",
+        "Color Wheel in OKLCH: drag any handle and the harmony turns with it, handles stop at the gamut's edge, sRGB and Display P3, keyboard fine-tuning, and any palette plotted for comparison.",
+        "Plainer color names: dark yellow-greens are \"olive\", dark blues \"navy\", pale greens \"mint\".",
+        "Paste or Import shows what to do when it's empty, with a Try an Example button.",
+        "The version number in Settings and Help is now correct."
+      ],
+      "notesPlain": [
+        "Mood boards: drop, paste or choose images and get one palette from all of them. Pick exact colors from any image with the eyedropper. Palettes saved from a board keep its images as their reference.",
+        "Color Wheel in OKLCH: drag any handle and the harmony turns with it, handles stop at the gamut's edge, sRGB and Display P3, keyboard fine-tuning, and any palette plotted for comparison.",
+        "Plainer color names: dark yellow-greens are \"olive\", dark blues \"navy\", pale greens \"mint\".",
+        "Paste or Import shows what to do when it's empty, with a Try an Example button.",
+        "The version number in Settings and Help is now correct."
+      ],
+      "url": null
+    },
+    {
+      "version": "0.6.0",
+      "date": null,
+      "notes": [
+        "Harmonies: complementary, analogous, triadic, split complementary, square and monochromatic, balanced in OKLCH.",
+        "Edit any palette color with lightness, chroma and hue sliders, with lightness lock.",
+        "Gradient Builder: compare sRGB, OKLab and OKLCH blends, copy modern CSS with a fallback, save the steps as a palette.",
+        "Nearest CSS color name on every pick.",
+        "Data Viz presets: Okabe-Ito, Viridis, a Tableau-inspired set and a blue-to-red diverging scale.",
+        "Export to Android colors.xml."
+      ],
+      "notesPlain": [
+        "Harmonies: complementary, analogous, triadic, split complementary, square and monochromatic, balanced in OKLCH.",
+        "Edit any palette color with lightness, chroma and hue sliders, with lightness lock.",
+        "Gradient Builder: compare sRGB, OKLab and OKLCH blends, copy modern CSS with a fallback, save the steps as a palette.",
+        "Nearest CSS color name on every pick.",
+        "Data Viz presets: Okabe-Ito, Viridis, a Tableau-inspired set and a blue-to-red diverging scale.",
+        "Export to Android colors.xml."
+      ],
+      "url": null
+    },
+    {
+      "version": "0.5.0",
+      "date": null,
+      "notes": [
+        "Fix contrast in one click: the nearest passing color, same hue, from the menu bar panel, theme checks or the contrast grid.",
+        "Match to your palettes: every pick shows the palette color it matches, or how close it is.",
+        "Color-blind collision warnings on palettes and themes, with a one-click preview.",
+        "Paste or import colors from CSS, Tailwind, JSON tokens, plain lists, .ase and .clr files.",
+        "Export palettes as Adobe Swatch Exchange (.ase) and Apple Color List (.clr)."
+      ],
+      "notesPlain": [
+        "Fix contrast in one click: the nearest passing color, same hue, from the menu bar panel, theme checks or the contrast grid.",
+        "Match to your palettes: every pick shows the palette color it matches, or how close it is.",
+        "Color-blind collision warnings on palettes and themes, with a one-click preview.",
+        "Paste or import colors from CSS, Tailwind, JSON tokens, plain lists, .ase and .clr files.",
+        "Export palettes as Adobe Swatch Exchange (.ase) and Apple Color List (.clr)."
+      ],
+      "url": null
+    },
+    {
+      "version": "0.4.0",
+      "date": null,
+      "notes": [
+        "Command palette: press ⌃⌥K anywhere (or ⌘K in ColorBody), type, press Return. Find any action, palette, theme, export or preset, or type a hex color to copy, scale or save it."
+      ],
+      "notesPlain": [
+        "Command palette: press ⌃⌥K anywhere (or ⌘K in ColorBody), type, press Return. Find any action, palette, theme, export or preset, or type a hex color to copy, scale or save it."
+      ],
+      "url": null
+    },
+    {
+      "version": "0.3.0",
+      "date": null,
+      "notes": [
+        "Palettes from photos: drop, paste or choose an image in the Library.",
+        "Area picking: drag a rectangle in the picker for its main colors.",
+        "Presets: brand-inspired palettes and film looks.",
+        "Themes: semantic roles with light and dark values, starter themes that pass WCAG AA, live previews and contrast checks.",
+        "Theme export to CSS, Tailwind v4, W3C Design Tokens, SwiftUI and Xcode asset catalogs.",
+        "Color vision: severity slider for the milder, common forms, and a movable lens window.",
+        "A native Library toolbar, standard menus, tabbed Settings, built-in Help and automatic updates."
+      ],
+      "notesPlain": [
+        "Palettes from photos: drop, paste or choose an image in the Library.",
+        "Area picking: drag a rectangle in the picker for its main colors.",
+        "Presets: brand-inspired palettes and film looks.",
+        "Themes: semantic roles with light and dark values, starter themes that pass WCAG AA, live previews and contrast checks.",
+        "Theme export to CSS, Tailwind v4, W3C Design Tokens, SwiftUI and Xcode asset catalogs.",
+        "Color vision: severity slider for the milder, common forms, and a movable lens window.",
+        "A native Library toolbar, standard menus, tabbed Settings, built-in Help and automatic updates."
+      ],
+      "url": null
+    },
+    {
+      "version": "0.2.0",
+      "date": null,
+      "notes": [
+        "Palettes and the Library window.",
+        "Tonal scales from any color.",
+        "Contrast matrix with WCAG 2 and APCA.",
+        "Export to CSS, Tailwind, W3C Design Tokens, SwiftUI and Xcode asset catalogs.",
+        "Live, screen-wide color vision simulation.",
+        "App icon and first-run guide."
+      ],
+      "notesPlain": [
+        "Palettes and the Library window.",
+        "Tonal scales from any color.",
+        "Contrast matrix with WCAG 2 and APCA.",
+        "Export to CSS, Tailwind, W3C Design Tokens, SwiftUI and Xcode asset catalogs.",
+        "Live, screen-wide color vision simulation.",
+        "App icon and first-run guide."
+      ],
+      "url": null
+    },
+    {
+      "version": "0.1.0",
+      "date": null,
+      "notes": [
+        "Menu bar picker with a magnifier, nudging, zoom and 1, 3 or 5 pixel averaging.",
+        "Display P3 sampling with wide-gamut warnings.",
+        "Ten copy formats and a history that remembers where each color came from.",
+        "WCAG 2 and APCA contrast against white and black."
+      ],
+      "notesPlain": [
+        "Menu bar picker with a magnifier, nudging, zoom and 1, 3 or 5 pixel averaging.",
+        "Display P3 sampling with wide-gamut warnings.",
+        "Ten copy formats and a history that remembers where each color came from.",
+        "WCAG 2 and APCA contrast against white and black."
+      ],
+      "url": null
+    }
+  ]
+}
