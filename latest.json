@@ -14,7 +14,7 @@
     "Settings › Updates can download updates in the background, ready to install when you quit."
   ],
   "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.13.1",
-  "minimumMacOS": "14.0",
+  "minimumMacOS": "14",
   "download": "https://github.com/dhuet/colorbody-releases/releases/download/v0.13.1/ColorPickr-0.13.1.dmg",
   "downloadVersioned": "https://github.com/dhuet/colorbody-releases/releases/download/v0.13.1/ColorPickr-0.13.1.dmg",
   "releasesPage": "https://github.com/dhuet/colorbody-releases/releases"
