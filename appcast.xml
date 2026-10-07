@@ -3,6 +3,16 @@
     <channel>
         <title>ColorPickr</title>
         <item>
+            <title>0.14.0</title>
+            <pubDate>Wed, 07 Oct 2026 18:17:47 +0000</pubDate>
+            <link>https://github.com/dhuet/colorbody-releases</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li><b>Design System:</b> one brand color becomes brand, neutral, success, warning, error and info scales that belong together. Status colors are checked so they never look alike to color-blind people. Export to Tailwind v4, shadcn/ui, Figma variables or CSS.</li><li><b>Screen Check</b> (⌃⌥S): drag over any design, or click a window, and see every line of text marked easy or hard to read, with a fix that keeps the hue. It also flags colors that look alike to color-blind people and lists the colors the design really uses. Works on images too.</li><li><b>ColorPickr Pro.</b> The picker, formats, history, contrast checks, color vision, palettes, the Color Wheel, and CSS and CSV export stay free. Pro adds mood boards, themes, colors from a website, Palette Studio, the floating palette, brand sheets and every other export.</li><li>Try Pro free for 14 days. Keep it with one payment, no subscription, on up to 3 Macs.</li><li>Already using ColorPickr? You&#x27;re a founding member: Pro is yours, free. Thank you.</li></ul>]]></description>
+            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.14.0/ColorPickr-0.14.0.dmg" length="6075123" type="application/octet-stream" sparkle:edSignature="3DM52tpCsG9bkZ9pKkoWWcb1UFvcNn376TjjqP/pdC2fzXplKK8Hq2IgHoE+VBwbuYX5NYofO4DuRWKhtvxODQ=="/>
+        </item>
+        <item>
             <title>0.13.1</title>
             <pubDate>Mon, 05 Oct 2026 23:10:21 +0000</pubDate>
             <link>https://github.com/dhuet/colorbody-releases</link>

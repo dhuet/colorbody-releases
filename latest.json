@@ -1,21 +1,23 @@
 {
-  "version": "0.13.1",
-  "date": "2026-10-05",
+  "version": "0.14.0",
+  "date": "2026-10-07",
   "notes": [
-    "A designed installer: open the DMG and drag ColorPickr onto Applications, following the arrow.",
-    "Opened ColorPickr from the installer or Downloads? It offers to move itself to Applications, reopens from there and ejects the installer.",
-    "Updates show up in the menu bar: a dot on the eyedropper and an **Update** button in the panel, with the release notes one click away. No pop-ups while you work.",
-    "Settings › Updates can download updates in the background, ready to install when you quit."
+    "**Design System:** one brand color becomes brand, neutral, success, warning, error and info scales that belong together. Status colors are checked so they never look alike to color-blind people. Export to Tailwind v4, shadcn/ui, Figma variables or CSS.",
+    "**Screen Check** (⌃⌥S): drag over any design, or click a window, and see every line of text marked easy or hard to read, with a fix that keeps the hue. It also flags colors that look alike to color-blind people and lists the colors the design really uses. Works on images too.",
+    "**ColorPickr Pro.** The picker, formats, history, contrast checks, color vision, palettes, the Color Wheel, and CSS and CSV export stay free. Pro adds mood boards, themes, colors from a website, Palette Studio, the floating palette, brand sheets and every other export.",
+    "Try Pro free for 14 days. Keep it with one payment, no subscription, on up to 3 Macs.",
+    "Already using ColorPickr? You're a founding member: Pro is yours, free. Thank you."
   ],
   "notesPlain": [
-    "A designed installer: open the DMG and drag ColorPickr onto Applications, following the arrow.",
-    "Opened ColorPickr from the installer or Downloads? It offers to move itself to Applications, reopens from there and ejects the installer.",
-    "Updates show up in the menu bar: a dot on the eyedropper and an Update button in the panel, with the release notes one click away. No pop-ups while you work.",
-    "Settings › Updates can download updates in the background, ready to install when you quit."
+    "Design System: one brand color becomes brand, neutral, success, warning, error and info scales that belong together. Status colors are checked so they never look alike to color-blind people. Export to Tailwind v4, shadcn/ui, Figma variables or CSS.",
+    "Screen Check (⌃⌥S): drag over any design, or click a window, and see every line of text marked easy or hard to read, with a fix that keeps the hue. It also flags colors that look alike to color-blind people and lists the colors the design really uses. Works on images too.",
+    "ColorPickr Pro. The picker, formats, history, contrast checks, color vision, palettes, the Color Wheel, and CSS and CSV export stay free. Pro adds mood boards, themes, colors from a website, Palette Studio, the floating palette, brand sheets and every other export.",
+    "Try Pro free for 14 days. Keep it with one payment, no subscription, on up to 3 Macs.",
+    "Already using ColorPickr? You're a founding member: Pro is yours, free. Thank you."
   ],
-  "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.13.1",
+  "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.14.0",
   "minimumMacOS": "14",
-  "download": "https://github.com/dhuet/colorbody-releases/releases/download/v0.13.1/ColorPickr-0.13.1.dmg",
-  "downloadVersioned": "https://github.com/dhuet/colorbody-releases/releases/download/v0.13.1/ColorPickr-0.13.1.dmg",
+  "download": "https://github.com/dhuet/colorbody-releases/releases/latest/download/ColorPickr.dmg",
+  "downloadVersioned": "https://github.com/dhuet/colorbody-releases/releases/download/v0.14.0/ColorPickr-0.14.0.dmg",
   "releasesPage": "https://github.com/dhuet/colorbody-releases/releases"
 }
