@@ -1,6 +1,21 @@
 {
-  "latest": "0.15.0",
+  "latest": "0.15.1",
   "releases": [
+    {
+      "version": "0.15.1",
+      "date": "2026-10-14",
+      "notes": [
+        "Contrast fixes are smaller: ColorPickr now stops at the closest color that passes instead of a few shades past it, so your brand color changes as little as possible.",
+        "New **Jetpack Compose** format, `Color(0xFFE9EEF7)`. Smart Formats uses it when you pick while working in Android Studio.",
+        "Keyboard shortcuts in the menu bar panel: **⌘C** copies your default format, **⌘1** to **⌘4** copy the format tiles."
+      ],
+      "notesPlain": [
+        "Contrast fixes are smaller: ColorPickr now stops at the closest color that passes instead of a few shades past it, so your brand color changes as little as possible.",
+        "New Jetpack Compose format, `Color(0xFFE9EEF7)`. Smart Formats uses it when you pick while working in Android Studio.",
+        "Keyboard shortcuts in the menu bar panel: ⌘C copies your default format, ⌘1 to ⌘4 copy the format tiles."
+      ],
+      "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.15.1"
+    },
     {
       "version": "0.15.0",
       "date": "2026-10-14",

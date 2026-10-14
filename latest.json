@@ -1,21 +1,19 @@
 {
-  "version": "0.15.0",
+  "version": "0.15.1",
   "date": "2026-10-14",
   "notes": [
-    "**Smart Formats:** a pick is copied in the format of the app you were working in. Pick while you're in Xcode and you get SwiftUI; pick while you're in VS Code, Cursor or Figma and you get HEX. Choose any app's format in Settings › General.",
-    "The magnifier now says the color's name in plain words, like \"dark blue\" or \"light grayish green\", for anyone who can't trust their eyes on a hue.",
-    "A cleaner menu bar panel: the color fills a big card with its hex, its name and where you picked it. Your four main formats sit up front with the rest one click away, and the contrast cards show real text so you can judge by eye. Fold History, the contrast check or Color vision to keep the panel short.",
-    "One ColorPickr Pro key now covers up to 3 devices."
+    "Contrast fixes are smaller: ColorPickr now stops at the closest color that passes instead of a few shades past it, so your brand color changes as little as possible.",
+    "New **Jetpack Compose** format, `Color(0xFFE9EEF7)`. Smart Formats uses it when you pick while working in Android Studio.",
+    "Keyboard shortcuts in the menu bar panel: **⌘C** copies your default format, **⌘1** to **⌘4** copy the format tiles."
   ],
   "notesPlain": [
-    "Smart Formats: a pick is copied in the format of the app you were working in. Pick while you're in Xcode and you get SwiftUI; pick while you're in VS Code, Cursor or Figma and you get HEX. Choose any app's format in Settings › General.",
-    "The magnifier now says the color's name in plain words, like \"dark blue\" or \"light grayish green\", for anyone who can't trust their eyes on a hue.",
-    "A cleaner menu bar panel: the color fills a big card with its hex, its name and where you picked it. Your four main formats sit up front with the rest one click away, and the contrast cards show real text so you can judge by eye. Fold History, the contrast check or Color vision to keep the panel short.",
-    "One ColorPickr Pro key now covers up to 3 devices."
+    "Contrast fixes are smaller: ColorPickr now stops at the closest color that passes instead of a few shades past it, so your brand color changes as little as possible.",
+    "New Jetpack Compose format, `Color(0xFFE9EEF7)`. Smart Formats uses it when you pick while working in Android Studio.",
+    "Keyboard shortcuts in the menu bar panel: ⌘C copies your default format, ⌘1 to ⌘4 copy the format tiles."
   ],
-  "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.15.0",
+  "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.15.1",
   "minimumMacOS": "14",
   "download": "https://github.com/dhuet/colorbody-releases/releases/latest/download/ColorPickr.dmg",
-  "downloadVersioned": "https://github.com/dhuet/colorbody-releases/releases/download/v0.15.0/ColorPickr-0.15.0.dmg",
+  "downloadVersioned": "https://github.com/dhuet/colorbody-releases/releases/download/v0.15.1/ColorPickr-0.15.1.dmg",
   "releasesPage": "https://github.com/dhuet/colorbody-releases/releases"
 }
