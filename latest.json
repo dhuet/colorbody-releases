@@ -1,17 +1,15 @@
 {
-  "version": "0.15.2",
+  "version": "0.15.3",
   "date": "2026-10-14",
   "notes": [
-    "The color vision simulation is easier to leave: the pill under the menu bar now has a **Turn off** button, so you don't need to remember ⌃⌥V.",
-    "Fixed: when Screen Recording access was missing, the alert asking for it could come straight back after you clicked Later."
+    "Fixed: after you turned on Screen Recording, ColorPickr could keep asking for it. It now checks with macOS's screen capture directly instead of trusting a status that can lag behind System Settings."
   ],
   "notesPlain": [
-    "The color vision simulation is easier to leave: the pill under the menu bar now has a Turn off button, so you don't need to remember ⌃⌥V.",
-    "Fixed: when Screen Recording access was missing, the alert asking for it could come straight back after you clicked Later."
+    "Fixed: after you turned on Screen Recording, ColorPickr could keep asking for it. It now checks with macOS's screen capture directly instead of trusting a status that can lag behind System Settings."
   ],
-  "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.15.2",
+  "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.15.3",
   "minimumMacOS": "14",
   "download": "https://github.com/dhuet/colorbody-releases/releases/latest/download/ColorPickr.dmg",
-  "downloadVersioned": "https://github.com/dhuet/colorbody-releases/releases/download/v0.15.2/ColorPickr-0.15.2.dmg",
+  "downloadVersioned": "https://github.com/dhuet/colorbody-releases/releases/download/v0.15.3/ColorPickr-0.15.3.dmg",
   "releasesPage": "https://github.com/dhuet/colorbody-releases/releases"
 }

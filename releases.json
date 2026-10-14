@@ -1,6 +1,17 @@
 {
-  "latest": "0.15.2",
+  "latest": "0.15.3",
   "releases": [
+    {
+      "version": "0.15.3",
+      "date": "2026-10-14",
+      "notes": [
+        "Fixed: after you turned on Screen Recording, ColorPickr could keep asking for it. It now checks with macOS's screen capture directly instead of trusting a status that can lag behind System Settings."
+      ],
+      "notesPlain": [
+        "Fixed: after you turned on Screen Recording, ColorPickr could keep asking for it. It now checks with macOS's screen capture directly instead of trusting a status that can lag behind System Settings."
+      ],
+      "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.15.3"
+    },
     {
       "version": "0.15.2",
       "date": "2026-10-14",

@@ -3,6 +3,16 @@
     <channel>
         <title>ColorPickr</title>
         <item>
+            <title>0.15.3</title>
+            <pubDate>Wed, 14 Oct 2026 18:37:46 +0000</pubDate>
+            <link>https://github.com/dhuet/colorbody-releases</link>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.15.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Fixed: after you turned on Screen Recording, ColorPickr could keep asking for it. It now checks with macOS&#x27;s screen capture directly instead of trusting a status that can lag behind System Settings.</li></ul>]]></description>
+            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.15.3/ColorPickr-0.15.3.dmg" length="6187863" type="application/octet-stream" sparkle:edSignature="B1xJzG8/UxXvDu7d1RWB6dOCRZVkanCU2EBiz2uFM5doOoKqsqWkX10/N9q6yeBLT/SzXsWYuadNU0DeJFlZAA=="/>
+        </item>
+        <item>
             <title>0.15.2</title>
             <pubDate>Wed, 14 Oct 2026 18:25:46 +0000</pubDate>
             <link>https://github.com/dhuet/colorbody-releases</link>
@@ -21,16 +31,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Contrast fixes are smaller: ColorPickr now stops at the closest color that passes instead of a few shades past it, so your brand color changes as little as possible.</li><li>New <b>Jetpack Compose</b> format, `Color(0xFFE9EEF7)`. Smart Formats uses it when you pick while working in Android Studio.</li><li>Keyboard shortcuts in the menu bar panel: <b>⌘C</b> copies your default format, <b>⌘1</b> to <b>⌘4</b> copy the format tiles.</li></ul>]]></description>
             <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.15.1/ColorPickr-0.15.1.dmg" length="6174271" type="application/octet-stream" sparkle:edSignature="wOunzCM/uIA5DvNjSzjhyapqJ1DACIbbqAomTuw/WuWuxvbusvcs5zNqdUEkCtji778mk6fB1rTLAdmnNE08AQ=="/>
-        </item>
-        <item>
-            <title>0.15.0</title>
-            <pubDate>Wed, 14 Oct 2026 17:03:07 +0000</pubDate>
-            <link>https://github.com/dhuet/colorbody-releases</link>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li><b>Smart Formats:</b> a pick is copied in the format of the app you were working in. Pick while you&#x27;re in Xcode and you get SwiftUI; pick while you&#x27;re in VS Code, Cursor or Figma and you get HEX. Choose any app&#x27;s format in Settings › General.</li><li>The magnifier now says the color&#x27;s name in plain words, like &quot;dark blue&quot; or &quot;light grayish green&quot;, for anyone who can&#x27;t trust their eyes on a hue.</li><li>A cleaner menu bar panel: the color fills a big card with its hex, its name and where you picked it. Your four main formats sit up front with the rest one click away, and the contrast cards show real text so you can judge by eye. Fold History, the contrast check or Color vision to keep the panel short.</li><li>One ColorPickr Pro key now covers up to 3 devices.</li></ul>]]></description>
-            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.15.0/ColorPickr-0.15.0.dmg" length="6171225" type="application/octet-stream" sparkle:edSignature="QJh24UnukLufR1wUbtZXbfkMwUUBgkJ9ys9xzsPbBG+gIAcOsfFRvT+27TknMLCB8uF9Sbm/LR7WVH9/FUXWAQ=="/>
         </item>
     </channel>
 </rss>
