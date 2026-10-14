@@ -1,6 +1,19 @@
 {
-  "latest": "0.15.3",
+  "latest": "0.15.4",
   "releases": [
+    {
+      "version": "0.15.4",
+      "date": "2026-10-14",
+      "notes": [
+        "Fixed: the picker could seem frozen when macOS kept another app in front. Your first click now picks right away, and Esc always closes the picker.",
+        "macOS's own Screen Recording prompt and ColorPickr's alert no longer appear at the same time."
+      ],
+      "notesPlain": [
+        "Fixed: the picker could seem frozen when macOS kept another app in front. Your first click now picks right away, and Esc always closes the picker.",
+        "macOS's own Screen Recording prompt and ColorPickr's alert no longer appear at the same time."
+      ],
+      "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.15.4"
+    },
     {
       "version": "0.15.3",
       "date": "2026-10-14",

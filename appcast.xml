@@ -3,6 +3,16 @@
     <channel>
         <title>ColorPickr</title>
         <item>
+            <title>0.15.4</title>
+            <pubDate>Wed, 14 Oct 2026 23:04:32 +0000</pubDate>
+            <link>https://github.com/dhuet/colorbody-releases</link>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.15.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Fixed: the picker could seem frozen when macOS kept another app in front. Your first click now picks right away, and Esc always closes the picker.</li><li>macOS&#x27;s own Screen Recording prompt and ColorPickr&#x27;s alert no longer appear at the same time.</li></ul>]]></description>
+            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.15.4/ColorPickr-0.15.4.dmg" length="6191786" type="application/octet-stream" sparkle:edSignature="B6WzmCg2OLIEd7f5zzVDpk8lukyBGCGQEWuqsDYlqtVKpen0IafXYCa//3pYwBFYH18dNo0AAJFJJQXPHMhzAQ=="/>
+        </item>
+        <item>
             <title>0.15.3</title>
             <pubDate>Wed, 14 Oct 2026 18:37:46 +0000</pubDate>
             <link>https://github.com/dhuet/colorbody-releases</link>
@@ -21,16 +31,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>The color vision simulation is easier to leave: the pill under the menu bar now has a <b>Turn off</b> button, so you don&#x27;t need to remember ⌃⌥V.</li><li>Fixed: when Screen Recording access was missing, the alert asking for it could come straight back after you clicked Later.</li></ul>]]></description>
             <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.15.2/ColorPickr-0.15.2.dmg" length="6184860" type="application/octet-stream" sparkle:edSignature="q8pm3nHIkfCPBdUWMs3Ecjh7HBd+JA7jfNN5KDwvdImElu5N7cePq+PqH+UFOk66iXw0mw0WCr+0iNq7LR7mCg=="/>
-        </item>
-        <item>
-            <title>0.15.1</title>
-            <pubDate>Wed, 14 Oct 2026 17:10:09 +0000</pubDate>
-            <link>https://github.com/dhuet/colorbody-releases</link>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.15.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Contrast fixes are smaller: ColorPickr now stops at the closest color that passes instead of a few shades past it, so your brand color changes as little as possible.</li><li>New <b>Jetpack Compose</b> format, `Color(0xFFE9EEF7)`. Smart Formats uses it when you pick while working in Android Studio.</li><li>Keyboard shortcuts in the menu bar panel: <b>⌘C</b> copies your default format, <b>⌘1</b> to <b>⌘4</b> copy the format tiles.</li></ul>]]></description>
-            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.15.1/ColorPickr-0.15.1.dmg" length="6174271" type="application/octet-stream" sparkle:edSignature="wOunzCM/uIA5DvNjSzjhyapqJ1DACIbbqAomTuw/WuWuxvbusvcs5zNqdUEkCtji778mk6fB1rTLAdmnNE08AQ=="/>
         </item>
     </channel>
 </rss>
