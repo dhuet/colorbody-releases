@@ -1,19 +1,17 @@
 {
-  "version": "0.15.1",
+  "version": "0.15.2",
   "date": "2026-10-14",
   "notes": [
-    "Contrast fixes are smaller: ColorPickr now stops at the closest color that passes instead of a few shades past it, so your brand color changes as little as possible.",
-    "New **Jetpack Compose** format, `Color(0xFFE9EEF7)`. Smart Formats uses it when you pick while working in Android Studio.",
-    "Keyboard shortcuts in the menu bar panel: **⌘C** copies your default format, **⌘1** to **⌘4** copy the format tiles."
+    "The color vision simulation is easier to leave: the pill under the menu bar now has a **Turn off** button, so you don't need to remember ⌃⌥V.",
+    "Fixed: when Screen Recording access was missing, the alert asking for it could come straight back after you clicked Later."
   ],
   "notesPlain": [
-    "Contrast fixes are smaller: ColorPickr now stops at the closest color that passes instead of a few shades past it, so your brand color changes as little as possible.",
-    "New Jetpack Compose format, `Color(0xFFE9EEF7)`. Smart Formats uses it when you pick while working in Android Studio.",
-    "Keyboard shortcuts in the menu bar panel: ⌘C copies your default format, ⌘1 to ⌘4 copy the format tiles."
+    "The color vision simulation is easier to leave: the pill under the menu bar now has a Turn off button, so you don't need to remember ⌃⌥V.",
+    "Fixed: when Screen Recording access was missing, the alert asking for it could come straight back after you clicked Later."
   ],
-  "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.15.1",
+  "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.15.2",
   "minimumMacOS": "14",
   "download": "https://github.com/dhuet/colorbody-releases/releases/latest/download/ColorPickr.dmg",
-  "downloadVersioned": "https://github.com/dhuet/colorbody-releases/releases/download/v0.15.1/ColorPickr-0.15.1.dmg",
+  "downloadVersioned": "https://github.com/dhuet/colorbody-releases/releases/download/v0.15.2/ColorPickr-0.15.2.dmg",
   "releasesPage": "https://github.com/dhuet/colorbody-releases/releases"
 }

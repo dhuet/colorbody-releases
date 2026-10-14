@@ -1,6 +1,19 @@
 {
-  "latest": "0.15.1",
+  "latest": "0.15.2",
   "releases": [
+    {
+      "version": "0.15.2",
+      "date": "2026-10-14",
+      "notes": [
+        "The color vision simulation is easier to leave: the pill under the menu bar now has a **Turn off** button, so you don't need to remember ⌃⌥V.",
+        "Fixed: when Screen Recording access was missing, the alert asking for it could come straight back after you clicked Later."
+      ],
+      "notesPlain": [
+        "The color vision simulation is easier to leave: the pill under the menu bar now has a Turn off button, so you don't need to remember ⌃⌥V.",
+        "Fixed: when Screen Recording access was missing, the alert asking for it could come straight back after you clicked Later."
+      ],
+      "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.15.2"
+    },
     {
       "version": "0.15.1",
       "date": "2026-10-14",
