@@ -1,6 +1,21 @@
 {
-  "latest": "0.15.4",
+  "latest": "0.16.0",
   "releases": [
+    {
+      "version": "0.16.0",
+      "date": "2026-10-14",
+      "notes": [
+        "**Quick Pick** (⌃⌥C) now uses the macOS magnifier: your screen stays live, click picks, Esc cancels. It needs no Screen Recording permission, so picking works the moment you install ColorPickr. A small card by the cursor shows what you picked, its name in plain words and the format it was copied in.",
+        "**Precision Pick** (⌃⌥⇧C) is the frozen-screen picker, for 3×3 and 5×5 averages, pixel nudging and dragging an area into a palette.",
+        "Screen Recording permission is now optional. It powers Precision Pick, Screen Check and the color vision simulation."
+      ],
+      "notesPlain": [
+        "Quick Pick (⌃⌥C) now uses the macOS magnifier: your screen stays live, click picks, Esc cancels. It needs no Screen Recording permission, so picking works the moment you install ColorPickr. A small card by the cursor shows what you picked, its name in plain words and the format it was copied in.",
+        "Precision Pick (⌃⌥⇧C) is the frozen-screen picker, for 3×3 and 5×5 averages, pixel nudging and dragging an area into a palette.",
+        "Screen Recording permission is now optional. It powers Precision Pick, Screen Check and the color vision simulation."
+      ],
+      "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.16.0"
+    },
     {
       "version": "0.15.4",
       "date": "2026-10-14",

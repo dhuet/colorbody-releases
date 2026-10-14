@@ -3,6 +3,16 @@
     <channel>
         <title>ColorPickr</title>
         <item>
+            <title>0.16.0</title>
+            <pubDate>Wed, 14 Oct 2026 23:20:25 +0000</pubDate>
+            <link>https://github.com/dhuet/colorbody-releases</link>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.16.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li><b>Quick Pick</b> (⌃⌥C) now uses the macOS magnifier: your screen stays live, click picks, Esc cancels. It needs no Screen Recording permission, so picking works the moment you install ColorPickr. A small card by the cursor shows what you picked, its name in plain words and the format it was copied in.</li><li><b>Precision Pick</b> (⌃⌥⇧C) is the frozen-screen picker, for 3×3 and 5×5 averages, pixel nudging and dragging an area into a palette.</li><li>Screen Recording permission is now optional. It powers Precision Pick, Screen Check and the color vision simulation.</li></ul>]]></description>
+            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.16.0/ColorPickr-0.16.0.dmg" length="6213582" type="application/octet-stream" sparkle:edSignature="HHe0p7Xpj2gnoDlhDQk4BymX4YjFQVfd1I0QqNoR2fzUsjaf+OC36m6XweE3V9e3BK+MQRLLAo0dGWzZBa7FAA=="/>
+        </item>
+        <item>
             <title>0.15.4</title>
             <pubDate>Wed, 14 Oct 2026 23:04:32 +0000</pubDate>
             <link>https://github.com/dhuet/colorbody-releases</link>
@@ -21,16 +31,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Fixed: after you turned on Screen Recording, ColorPickr could keep asking for it. It now checks with macOS&#x27;s screen capture directly instead of trusting a status that can lag behind System Settings.</li></ul>]]></description>
             <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.15.3/ColorPickr-0.15.3.dmg" length="6187863" type="application/octet-stream" sparkle:edSignature="B1xJzG8/UxXvDu7d1RWB6dOCRZVkanCU2EBiz2uFM5doOoKqsqWkX10/N9q6yeBLT/SzXsWYuadNU0DeJFlZAA=="/>
-        </item>
-        <item>
-            <title>0.15.2</title>
-            <pubDate>Wed, 14 Oct 2026 18:25:46 +0000</pubDate>
-            <link>https://github.com/dhuet/colorbody-releases</link>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.15.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>The color vision simulation is easier to leave: the pill under the menu bar now has a <b>Turn off</b> button, so you don&#x27;t need to remember ⌃⌥V.</li><li>Fixed: when Screen Recording access was missing, the alert asking for it could come straight back after you clicked Later.</li></ul>]]></description>
-            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.15.2/ColorPickr-0.15.2.dmg" length="6184860" type="application/octet-stream" sparkle:edSignature="q8pm3nHIkfCPBdUWMs3Ecjh7HBd+JA7jfNN5KDwvdImElu5N7cePq+PqH+UFOk66iXw0mw0WCr+0iNq7LR7mCg=="/>
         </item>
     </channel>
 </rss>
