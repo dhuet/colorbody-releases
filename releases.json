@@ -1,6 +1,25 @@
 {
-  "latest": "0.16.0",
+  "latest": "0.17.0",
   "releases": [
+    {
+      "version": "0.17.0",
+      "date": "2026-10-23",
+      "notes": [
+        "The menu bar panel has a **Library** card: what you've saved, an **Open** button (⌘L) and the five Create tools, one click from the panel.",
+        "**A new Home in the Library:** pick a color, start a mood board, a design system or a palette, and reopen your latest palettes, all from one page.",
+        "The Library takes its look from colorpickr.app: each tool has its own color in the sidebar, and the Home and Pro pages use the website's type and color strip. Boards, palettes and the Color Wheel stay neutral, so your colors look true.",
+        "A shorter sidebar: five main tools under Create, the rest under **More Tools**, and Mood Boards, Palettes and Themes fold away.",
+        "The Library opens larger, remembers its size and position, and goes full screen from the green button."
+      ],
+      "notesPlain": [
+        "The menu bar panel has a Library card: what you've saved, an Open button (⌘L) and the five Create tools, one click from the panel.",
+        "A new Home in the Library: pick a color, start a mood board, a design system or a palette, and reopen your latest palettes, all from one page.",
+        "The Library takes its look from colorpickr.app: each tool has its own color in the sidebar, and the Home and Pro pages use the website's type and color strip. Boards, palettes and the Color Wheel stay neutral, so your colors look true.",
+        "A shorter sidebar: five main tools under Create, the rest under More Tools, and Mood Boards, Palettes and Themes fold away.",
+        "The Library opens larger, remembers its size and position, and goes full screen from the green button."
+      ],
+      "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.17.0"
+    },
     {
       "version": "0.16.0",
       "date": "2026-10-14",
