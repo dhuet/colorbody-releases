@@ -1,6 +1,21 @@
 {
-  "latest": "0.17.0",
+  "latest": "0.18.0",
   "releases": [
+    {
+      "version": "0.18.0",
+      "date": "2026-10-26",
+      "notes": [
+        "**Theme Builder:** a guided first theme for when starting from nothing is the hard part. Start from a photo, a color or a mood, take a recommended main color and accent, and see the result on real screens in light and dark, with the reasons it works. Free to try; saving needs Pro.",
+        "The Theme Builder is first under **Create**, on Home, in the panel's Library card, in the **File** menu and in the command palette. The Color Wheel moved to **More Tools**.",
+        "Theme previews use a theme's accent color for small highlights."
+      ],
+      "notesPlain": [
+        "Theme Builder: a guided first theme for when starting from nothing is the hard part. Start from a photo, a color or a mood, take a recommended main color and accent, and see the result on real screens in light and dark, with the reasons it works. Free to try; saving needs Pro.",
+        "The Theme Builder is first under Create, on Home, in the panel's Library card, in the File menu and in the command palette. The Color Wheel moved to More Tools.",
+        "Theme previews use a theme's accent color for small highlights."
+      ],
+      "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.18.0"
+    },
     {
       "version": "0.17.0",
       "date": "2026-10-23",

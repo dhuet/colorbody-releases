@@ -3,6 +3,16 @@
     <channel>
         <title>ColorPickr</title>
         <item>
+            <title>0.18.0</title>
+            <pubDate>Mon, 26 Oct 2026 22:42:46 +0000</pubDate>
+            <link>https://github.com/dhuet/colorbody-releases</link>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li><b>Theme Builder:</b> a guided first theme for when starting from nothing is the hard part. Start from a photo, a color or a mood, take a recommended main color and accent, and see the result on real screens in light and dark, with the reasons it works. Free to try; saving needs Pro.</li><li>The Theme Builder is first under <b>Create</b>, on Home, in the panel&#x27;s Library card, in the <b>File</b> menu and in the command palette. The Color Wheel moved to <b>More Tools</b>.</li><li>Theme previews use a theme&#x27;s accent color for small highlights.</li></ul>]]></description>
+            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.18.0/ColorPickr-0.18.0.dmg" length="6648954" type="application/octet-stream" sparkle:edSignature="r/i/5y0OCeC3cj1U82CVnoXbcBqeXy4Xpd/K5aqSpoPipKP+hjFvP5TPURCJ6ve31wRKB2Zh/CC7sVYUBjaXCg=="/>
+        </item>
+        <item>
             <title>0.17.0</title>
             <pubDate>Fri, 23 Oct 2026 21:38:54 +0000</pubDate>
             <link>https://github.com/dhuet/colorbody-releases</link>
@@ -21,16 +31,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li><b>Quick Pick</b> (⌃⌥C) now uses the macOS magnifier: your screen stays live, click picks, Esc cancels. It needs no Screen Recording permission, so picking works the moment you install ColorPickr. A small card by the cursor shows what you picked, its name in plain words and the format it was copied in.</li><li><b>Precision Pick</b> (⌃⌥⇧C) is the frozen-screen picker, for 3×3 and 5×5 averages, pixel nudging and dragging an area into a palette.</li><li>Screen Recording permission is now optional. It powers Precision Pick, Screen Check and the color vision simulation.</li></ul>]]></description>
             <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.16.0/ColorPickr-0.16.0.dmg" length="6213582" type="application/octet-stream" sparkle:edSignature="HHe0p7Xpj2gnoDlhDQk4BymX4YjFQVfd1I0QqNoR2fzUsjaf+OC36m6XweE3V9e3BK+MQRLLAo0dGWzZBa7FAA=="/>
-        </item>
-        <item>
-            <title>0.15.4</title>
-            <pubDate>Wed, 14 Oct 2026 23:04:32 +0000</pubDate>
-            <link>https://github.com/dhuet/colorbody-releases</link>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.15.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Fixed: the picker could seem frozen when macOS kept another app in front. Your first click now picks right away, and Esc always closes the picker.</li><li>macOS&#x27;s own Screen Recording prompt and ColorPickr&#x27;s alert no longer appear at the same time.</li></ul>]]></description>
-            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.15.4/ColorPickr-0.15.4.dmg" length="6191786" type="application/octet-stream" sparkle:edSignature="B6WzmCg2OLIEd7f5zzVDpk8lukyBGCGQEWuqsDYlqtVKpen0IafXYCa//3pYwBFYH18dNo0AAJFJJQXPHMhzAQ=="/>
         </item>
     </channel>
 </rss>
