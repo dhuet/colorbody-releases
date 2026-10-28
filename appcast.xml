@@ -3,6 +3,16 @@
     <channel>
         <title>ColorPickr</title>
         <item>
+            <title>0.19.0</title>
+            <pubDate>Wed, 28 Oct 2026 16:10:13 +0000</pubDate>
+            <link>https://github.com/dhuet/colorbody-releases</link>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li><b>ColorPickr for Figma:</b> a new Figma plugin turns your palettes, themes and design systems into Figma variables and color styles. Themes keep Light and Dark modes, and every role stays linked to the palette color it uses.</li><li>New <b>For Figma</b> option under <b>Export › Copy to Clipboard</b> for palettes, themes and design systems. Free for palettes.</li><li><b>Buy ColorPickr Pro</b> now goes to the live store: one payment of $19.99, up to 3 devices across Mac and Chrome.</li></ul>]]></description>
+            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.19.0/ColorPickr-0.19.0.dmg" length="6667570" type="application/octet-stream" sparkle:edSignature="hfkJS1VvEhsWlDF14n9lzEU5R60nxvOpIRPkSdwP0EiO7oHx7IW2wwJbMHNMuKNZr63PAEuv7slFjZuuiHThBA=="/>
+        </item>
+        <item>
             <title>0.18.0</title>
             <pubDate>Mon, 26 Oct 2026 22:42:46 +0000</pubDate>
             <link>https://github.com/dhuet/colorbody-releases</link>
@@ -21,16 +31,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>The menu bar panel has a <b>Library</b> card: what you&#x27;ve saved, an <b>Open</b> button (⌘L) and the five Create tools, one click from the panel.</li><li><b>A new Home in the Library:</b> pick a color, start a mood board, a design system or a palette, and reopen your latest palettes, all from one page.</li><li>The Library takes its look from colorpickr.app: each tool has its own color in the sidebar, and the Home and Pro pages use the website&#x27;s type and color strip. Boards, palettes and the Color Wheel stay neutral, so your colors look true.</li><li>A shorter sidebar: five main tools under Create, the rest under <b>More Tools</b>, and Mood Boards, Palettes and Themes fold away.</li><li>The Library opens larger, remembers its size and position, and goes full screen from the green button.</li></ul>]]></description>
             <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.17.0/ColorPickr-0.17.0.dmg" length="6442616" type="application/octet-stream" sparkle:edSignature="idI66poVFM0rlkdZbnKK9thUS3AG9W3b+/7NeDXpgCcwksHzIzB1bvghJ8MxgRFqYq1iBzXxaZGIbgs9cVNjBA=="/>
-        </item>
-        <item>
-            <title>0.16.0</title>
-            <pubDate>Wed, 14 Oct 2026 23:20:25 +0000</pubDate>
-            <link>https://github.com/dhuet/colorbody-releases</link>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>0.16.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li><b>Quick Pick</b> (⌃⌥C) now uses the macOS magnifier: your screen stays live, click picks, Esc cancels. It needs no Screen Recording permission, so picking works the moment you install ColorPickr. A small card by the cursor shows what you picked, its name in plain words and the format it was copied in.</li><li><b>Precision Pick</b> (⌃⌥⇧C) is the frozen-screen picker, for 3×3 and 5×5 averages, pixel nudging and dragging an area into a palette.</li><li>Screen Recording permission is now optional. It powers Precision Pick, Screen Check and the color vision simulation.</li></ul>]]></description>
-            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.16.0/ColorPickr-0.16.0.dmg" length="6213582" type="application/octet-stream" sparkle:edSignature="HHe0p7Xpj2gnoDlhDQk4BymX4YjFQVfd1I0QqNoR2fzUsjaf+OC36m6XweE3V9e3BK+MQRLLAo0dGWzZBa7FAA=="/>
         </item>
     </channel>
 </rss>

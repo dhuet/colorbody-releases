@@ -1,6 +1,21 @@
 {
-  "latest": "0.18.0",
+  "latest": "0.19.0",
   "releases": [
+    {
+      "version": "0.19.0",
+      "date": "2026-10-28",
+      "notes": [
+        "**ColorPickr for Figma:** a new Figma plugin turns your palettes, themes and design systems into Figma variables and color styles. Themes keep Light and Dark modes, and every role stays linked to the palette color it uses.",
+        "New **For Figma** option under **Export › Copy to Clipboard** for palettes, themes and design systems. Free for palettes.",
+        "**Buy ColorPickr Pro** now goes to the live store: one payment of $19.99, up to 3 devices across Mac and Chrome."
+      ],
+      "notesPlain": [
+        "ColorPickr for Figma: a new Figma plugin turns your palettes, themes and design systems into Figma variables and color styles. Themes keep Light and Dark modes, and every role stays linked to the palette color it uses.",
+        "New For Figma option under Export › Copy to Clipboard for palettes, themes and design systems. Free for palettes.",
+        "Buy ColorPickr Pro now goes to the live store: one payment of $19.99, up to 3 devices across Mac and Chrome."
+      ],
+      "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.19.0"
+    },
     {
       "version": "0.18.0",
       "date": "2026-10-26",

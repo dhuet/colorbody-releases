@@ -1,19 +1,19 @@
 {
-  "version": "0.18.0",
-  "date": "2026-10-26",
+  "version": "0.19.0",
+  "date": "2026-10-28",
   "notes": [
-    "**Theme Builder:** a guided first theme for when starting from nothing is the hard part. Start from a photo, a color or a mood, take a recommended main color and accent, and see the result on real screens in light and dark, with the reasons it works. Free to try; saving needs Pro.",
-    "The Theme Builder is first under **Create**, on Home, in the panel's Library card, in the **File** menu and in the command palette. The Color Wheel moved to **More Tools**.",
-    "Theme previews use a theme's accent color for small highlights."
+    "**ColorPickr for Figma:** a new Figma plugin turns your palettes, themes and design systems into Figma variables and color styles. Themes keep Light and Dark modes, and every role stays linked to the palette color it uses.",
+    "New **For Figma** option under **Export › Copy to Clipboard** for palettes, themes and design systems. Free for palettes.",
+    "**Buy ColorPickr Pro** now goes to the live store: one payment of $19.99, up to 3 devices across Mac and Chrome."
   ],
   "notesPlain": [
-    "Theme Builder: a guided first theme for when starting from nothing is the hard part. Start from a photo, a color or a mood, take a recommended main color and accent, and see the result on real screens in light and dark, with the reasons it works. Free to try; saving needs Pro.",
-    "The Theme Builder is first under Create, on Home, in the panel's Library card, in the File menu and in the command palette. The Color Wheel moved to More Tools.",
-    "Theme previews use a theme's accent color for small highlights."
+    "ColorPickr for Figma: a new Figma plugin turns your palettes, themes and design systems into Figma variables and color styles. Themes keep Light and Dark modes, and every role stays linked to the palette color it uses.",
+    "New For Figma option under Export › Copy to Clipboard for palettes, themes and design systems. Free for palettes.",
+    "Buy ColorPickr Pro now goes to the live store: one payment of $19.99, up to 3 devices across Mac and Chrome."
   ],
-  "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.18.0",
+  "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.19.0",
   "minimumMacOS": "14",
   "download": "https://github.com/dhuet/colorbody-releases/releases/latest/download/ColorPickr.dmg",
-  "downloadVersioned": "https://github.com/dhuet/colorbody-releases/releases/download/v0.18.0/ColorPickr-0.18.0.dmg",
+  "downloadVersioned": "https://github.com/dhuet/colorbody-releases/releases/download/v0.19.0/ColorPickr-0.19.0.dmg",
   "releasesPage": "https://github.com/dhuet/colorbody-releases/releases"
 }
