@@ -1,6 +1,17 @@
 {
-  "latest": "0.21.0",
+  "latest": "0.22.0",
   "releases": [
+    {
+      "version": "0.22.0",
+      "date": "2026-11-24",
+      "notes": [
+        "**iCloud Sync.** Your palettes, themes and mood boards, images included, on every Mac you use. Turn it on in Settings › Sync. It runs through a ColorPickr folder in your own iCloud Drive: no account, and nothing goes to ColorPickr. If the same item changes on two Macs at once, both versions are kept. Part of ColorPickr Pro."
+      ],
+      "notesPlain": [
+        "iCloud Sync. Your palettes, themes and mood boards, images included, on every Mac you use. Turn it on in Settings › Sync. It runs through a ColorPickr folder in your own iCloud Drive: no account, and nothing goes to ColorPickr. If the same item changes on two Macs at once, both versions are kept. Part of ColorPickr Pro."
+      ],
+      "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.22.0"
+    },
     {
       "version": "0.21.0",
       "date": "2026-11-24",

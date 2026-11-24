@@ -3,6 +3,16 @@
     <channel>
         <title>ColorPickr</title>
         <item>
+            <title>0.22.0</title>
+            <pubDate>Tue, 24 Nov 2026 19:48:25 +0000</pubDate>
+            <link>https://github.com/dhuet/colorbody-releases</link>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li><b>iCloud Sync.</b> Your palettes, themes and mood boards, images included, on every Mac you use. Turn it on in Settings › Sync. It runs through a ColorPickr folder in your own iCloud Drive: no account, and nothing goes to ColorPickr. If the same item changes on two Macs at once, both versions are kept. Part of ColorPickr Pro.</li></ul>]]></description>
+            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.22.0/ColorPickr-0.22.0.dmg" length="7101478" type="application/octet-stream" sparkle:edSignature="mX/QG22GXsz/08b2vEuubR8Ap0H9fdjVWRv0oGZokkfwpvCrozjhS+gzVynnbFSFLzscv405aBlf8YjUdFqNCw=="/>
+        </item>
+        <item>
             <title>0.21.0</title>
             <pubDate>Tue, 24 Nov 2026 19:24:32 +0000</pubDate>
             <link>https://github.com/dhuet/colorbody-releases</link>
@@ -21,16 +31,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li><b>A panel you can move.</b> Drag the menu bar panel by its header, or press the pin, and it floats over every app until you send it back. It now uses the warm page color of colorpickr.app instead of gray glass, with rounder corners.</li><li><b>Edit any color:</b> click the logo or the color card (or press ⌘E), with a toolbar like the macOS Colors window: the eyedropper on the left, and the classic Picker square, Sliders, Wheel and Palettes on the right. The sliders show the colors you&#x27;d get, and every position is a color screens can show. Before and after swatches, a hex field and Reset.</li><li><b>Variations:</b> nine steps from light to dark, or muted to vivid, under every color. Click to use one, + to save it, ⌥↑ and ⌥↓ to step through.</li><li><b>Pick from screen</b> now sits on the color card, next to a round rainbow <b>Edit color</b> button.</li><li><b>Saving to:</b> the palette the panel saves to sits right in it. ⌘S saves the current color, and its name switches palettes. It replaces Add to Palette.</li><li>Settings opens in its own window from the panel, the app menu (⌘,) and the command palette.</li></ul>]]></description>
             <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.20.0/ColorPickr-0.20.0.dmg" length="6932773" type="application/octet-stream" sparkle:edSignature="1yM9C8EMKMyJ/yAuNa2IlyG/mZDHfToeDCE4h/mjLn73IieCnD8kvrQW9DealUE7NTrrCP4Mpe3wkT7u4ofgAw=="/>
-        </item>
-        <item>
-            <title>0.19.0</title>
-            <pubDate>Wed, 28 Oct 2026 16:10:13 +0000</pubDate>
-            <link>https://github.com/dhuet/colorbody-releases</link>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li><b>ColorPickr for Figma:</b> a new Figma plugin turns your palettes, themes and design systems into Figma variables and color styles. Themes keep Light and Dark modes, and every role stays linked to the palette color it uses.</li><li>New <b>For Figma</b> option under <b>Export › Copy to Clipboard</b> for palettes, themes and design systems. Free for palettes.</li><li><b>Buy ColorPickr Pro</b> now goes to the live store: one payment of $19.99, up to 3 devices across Mac and Chrome.</li></ul>]]></description>
-            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.19.0/ColorPickr-0.19.0.dmg" length="6667570" type="application/octet-stream" sparkle:edSignature="hfkJS1VvEhsWlDF14n9lzEU5R60nxvOpIRPkSdwP0EiO7oHx7IW2wwJbMHNMuKNZr63PAEuv7slFjZuuiHThBA=="/>
         </item>
     </channel>
 </rss>
