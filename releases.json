@@ -1,6 +1,17 @@
 {
-  "latest": "0.22.0",
+  "latest": "0.22.1",
   "releases": [
+    {
+      "version": "0.22.1",
+      "date": "2026-11-24",
+      "notes": [
+        "Fixed: with a long History and every section open, the menu bar panel could grow taller than the screen and lose its top edge, often when coming back from the color picker. It now stops at the screen's height and scrolls, and always stays on screen."
+      ],
+      "notesPlain": [
+        "Fixed: with a long History and every section open, the menu bar panel could grow taller than the screen and lose its top edge, often when coming back from the color picker. It now stops at the screen's height and scrolls, and always stays on screen."
+      ],
+      "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.22.1"
+    },
     {
       "version": "0.22.0",
       "date": "2026-11-24",

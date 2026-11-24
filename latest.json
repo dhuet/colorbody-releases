@@ -1,15 +1,15 @@
 {
-  "version": "0.22.0",
+  "version": "0.22.1",
   "date": "2026-11-24",
   "notes": [
-    "**iCloud Sync.** Your palettes, themes and mood boards, images included, on every Mac you use. Turn it on in Settings › Sync. It runs through a ColorPickr folder in your own iCloud Drive: no account, and nothing goes to ColorPickr. If the same item changes on two Macs at once, both versions are kept. Part of ColorPickr Pro."
+    "Fixed: with a long History and every section open, the menu bar panel could grow taller than the screen and lose its top edge, often when coming back from the color picker. It now stops at the screen's height and scrolls, and always stays on screen."
   ],
   "notesPlain": [
-    "iCloud Sync. Your palettes, themes and mood boards, images included, on every Mac you use. Turn it on in Settings › Sync. It runs through a ColorPickr folder in your own iCloud Drive: no account, and nothing goes to ColorPickr. If the same item changes on two Macs at once, both versions are kept. Part of ColorPickr Pro."
+    "Fixed: with a long History and every section open, the menu bar panel could grow taller than the screen and lose its top edge, often when coming back from the color picker. It now stops at the screen's height and scrolls, and always stays on screen."
   ],
-  "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.22.0",
+  "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.22.1",
   "minimumMacOS": "14",
   "download": "https://github.com/dhuet/colorbody-releases/releases/latest/download/ColorPickr.dmg",
-  "downloadVersioned": "https://github.com/dhuet/colorbody-releases/releases/download/v0.22.0/ColorPickr-0.22.0.dmg",
+  "downloadVersioned": "https://github.com/dhuet/colorbody-releases/releases/download/v0.22.1/ColorPickr-0.22.1.dmg",
   "releasesPage": "https://github.com/dhuet/colorbody-releases/releases"
 }

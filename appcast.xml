@@ -3,6 +3,16 @@
     <channel>
         <title>ColorPickr</title>
         <item>
+            <title>0.22.1</title>
+            <pubDate>Tue, 24 Nov 2026 20:17:37 +0000</pubDate>
+            <link>https://github.com/dhuet/colorbody-releases</link>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.22.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Fixed: with a long History and every section open, the menu bar panel could grow taller than the screen and lose its top edge, often when coming back from the color picker. It now stops at the screen&#x27;s height and scrolls, and always stays on screen.</li></ul>]]></description>
+            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.22.1/ColorPickr-0.22.1.dmg" length="7107878" type="application/octet-stream" sparkle:edSignature="EkS/OIK8LVv2o3oN3ib9Dx9CFofmt9EHYUGkKXEboAbpHXr4f/DVEDxMOPvAWgWsZcvVhgq1e6uqKvV3Kk2KDQ=="/>
+        </item>
+        <item>
             <title>0.22.0</title>
             <pubDate>Tue, 24 Nov 2026 19:48:25 +0000</pubDate>
             <link>https://github.com/dhuet/colorbody-releases</link>
@@ -21,16 +31,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li><b>A clear way back</b> from the color picker: <b>‹ Back</b> on the color strip at the top, or click the strip. When you&#x27;ve changed the color, <b>Use This Color</b> sits right there too.</li><li><b>Contrast on your own background.</b> Under Readable as text?, a third check tests your color on a background you choose: pick it from the screen, choose it from a palette, or right-click a History swatch. Same verdict, ratio and Fix as the white and black checks, and the panel remembers it.</li></ul>]]></description>
             <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.21.0/ColorPickr-0.21.0.dmg" length="6970382" type="application/octet-stream" sparkle:edSignature="Xv2Mw7o2g2zngvlJQdnT2SO9dV54dQls9ay3SYoDV0zqXBfSbeuLG6s9tuUMlB/pHDMoJcy62E5Mf+YuLPPkBA=="/>
-        </item>
-        <item>
-            <title>0.20.0</title>
-            <pubDate>Tue, 24 Nov 2026 19:15:49 +0000</pubDate>
-            <link>https://github.com/dhuet/colorbody-releases</link>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.20.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li><b>A panel you can move.</b> Drag the menu bar panel by its header, or press the pin, and it floats over every app until you send it back. It now uses the warm page color of colorpickr.app instead of gray glass, with rounder corners.</li><li><b>Edit any color:</b> click the logo or the color card (or press ⌘E), with a toolbar like the macOS Colors window: the eyedropper on the left, and the classic Picker square, Sliders, Wheel and Palettes on the right. The sliders show the colors you&#x27;d get, and every position is a color screens can show. Before and after swatches, a hex field and Reset.</li><li><b>Variations:</b> nine steps from light to dark, or muted to vivid, under every color. Click to use one, + to save it, ⌥↑ and ⌥↓ to step through.</li><li><b>Pick from screen</b> now sits on the color card, next to a round rainbow <b>Edit color</b> button.</li><li><b>Saving to:</b> the palette the panel saves to sits right in it. ⌘S saves the current color, and its name switches palettes. It replaces Add to Palette.</li><li>Settings opens in its own window from the panel, the app menu (⌘,) and the command palette.</li></ul>]]></description>
-            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.20.0/ColorPickr-0.20.0.dmg" length="6932773" type="application/octet-stream" sparkle:edSignature="1yM9C8EMKMyJ/yAuNa2IlyG/mZDHfToeDCE4h/mjLn73IieCnD8kvrQW9DealUE7NTrrCP4Mpe3wkT7u4ofgAw=="/>
         </item>
     </channel>
 </rss>
