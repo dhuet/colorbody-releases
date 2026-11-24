@@ -1,6 +1,27 @@
 {
-  "latest": "0.19.0",
+  "latest": "0.20.0",
   "releases": [
+    {
+      "version": "0.20.0",
+      "date": "2026-11-24",
+      "notes": [
+        "**A panel you can move.** Drag the menu bar panel by its header, or press the pin, and it floats over every app until you send it back. It now uses the warm page color of colorpickr.app instead of gray glass, with rounder corners.",
+        "**Edit any color:** click the logo or the color card (or press ⌘E), with a toolbar like the macOS Colors window: the eyedropper on the left, and the classic Picker square, Sliders, Wheel and Palettes on the right. The sliders show the colors you'd get, and every position is a color screens can show. Before and after swatches, a hex field and Reset.",
+        "**Variations:** nine steps from light to dark, or muted to vivid, under every color. Click to use one, + to save it, ⌥↑ and ⌥↓ to step through.",
+        "**Pick from screen** now sits on the color card, next to a round rainbow **Edit color** button.",
+        "**Saving to:** the palette the panel saves to sits right in it. ⌘S saves the current color, and its name switches palettes. It replaces Add to Palette.",
+        "Settings opens in its own window from the panel, the app menu (⌘,) and the command palette."
+      ],
+      "notesPlain": [
+        "A panel you can move. Drag the menu bar panel by its header, or press the pin, and it floats over every app until you send it back. It now uses the warm page color of colorpickr.app instead of gray glass, with rounder corners.",
+        "Edit any color: click the logo or the color card (or press ⌘E), with a toolbar like the macOS Colors window: the eyedropper on the left, and the classic Picker square, Sliders, Wheel and Palettes on the right. The sliders show the colors you'd get, and every position is a color screens can show. Before and after swatches, a hex field and Reset.",
+        "Variations: nine steps from light to dark, or muted to vivid, under every color. Click to use one, + to save it, ⌥↑ and ⌥↓ to step through.",
+        "Pick from screen now sits on the color card, next to a round rainbow Edit color button.",
+        "Saving to: the palette the panel saves to sits right in it. ⌘S saves the current color, and its name switches palettes. It replaces Add to Palette.",
+        "Settings opens in its own window from the panel, the app menu (⌘,) and the command palette."
+      ],
+      "url": "https://github.com/dhuet/colorbody-releases/releases/tag/v0.20.0"
+    },
     {
       "version": "0.19.0",
       "date": "2026-10-28",

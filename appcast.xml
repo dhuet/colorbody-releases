@@ -3,6 +3,16 @@
     <channel>
         <title>ColorPickr</title>
         <item>
+            <title>0.20.0</title>
+            <pubDate>Tue, 24 Nov 2026 19:15:49 +0000</pubDate>
+            <link>https://github.com/dhuet/colorbody-releases</link>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.20.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li><b>A panel you can move.</b> Drag the menu bar panel by its header, or press the pin, and it floats over every app until you send it back. It now uses the warm page color of colorpickr.app instead of gray glass, with rounder corners.</li><li><b>Edit any color:</b> click the logo or the color card (or press ⌘E), with a toolbar like the macOS Colors window: the eyedropper on the left, and the classic Picker square, Sliders, Wheel and Palettes on the right. The sliders show the colors you&#x27;d get, and every position is a color screens can show. Before and after swatches, a hex field and Reset.</li><li><b>Variations:</b> nine steps from light to dark, or muted to vivid, under every color. Click to use one, + to save it, ⌥↑ and ⌥↓ to step through.</li><li><b>Pick from screen</b> now sits on the color card, next to a round rainbow <b>Edit color</b> button.</li><li><b>Saving to:</b> the palette the panel saves to sits right in it. ⌘S saves the current color, and its name switches palettes. It replaces Add to Palette.</li><li>Settings opens in its own window from the panel, the app menu (⌘,) and the command palette.</li></ul>]]></description>
+            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.20.0/ColorPickr-0.20.0.dmg" length="6932773" type="application/octet-stream" sparkle:edSignature="1yM9C8EMKMyJ/yAuNa2IlyG/mZDHfToeDCE4h/mjLn73IieCnD8kvrQW9DealUE7NTrrCP4Mpe3wkT7u4ofgAw=="/>
+        </item>
+        <item>
             <title>0.19.0</title>
             <pubDate>Wed, 28 Oct 2026 16:10:13 +0000</pubDate>
             <link>https://github.com/dhuet/colorbody-releases</link>
@@ -21,16 +31,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li><b>Theme Builder:</b> a guided first theme for when starting from nothing is the hard part. Start from a photo, a color or a mood, take a recommended main color and accent, and see the result on real screens in light and dark, with the reasons it works. Free to try; saving needs Pro.</li><li>The Theme Builder is first under <b>Create</b>, on Home, in the panel&#x27;s Library card, in the <b>File</b> menu and in the command palette. The Color Wheel moved to <b>More Tools</b>.</li><li>Theme previews use a theme&#x27;s accent color for small highlights.</li></ul>]]></description>
             <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.18.0/ColorPickr-0.18.0.dmg" length="6648954" type="application/octet-stream" sparkle:edSignature="r/i/5y0OCeC3cj1U82CVnoXbcBqeXy4Xpd/K5aqSpoPipKP+hjFvP5TPURCJ6ve31wRKB2Zh/CC7sVYUBjaXCg=="/>
-        </item>
-        <item>
-            <title>0.17.0</title>
-            <pubDate>Fri, 23 Oct 2026 21:38:54 +0000</pubDate>
-            <link>https://github.com/dhuet/colorbody-releases</link>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>The menu bar panel has a <b>Library</b> card: what you&#x27;ve saved, an <b>Open</b> button (⌘L) and the five Create tools, one click from the panel.</li><li><b>A new Home in the Library:</b> pick a color, start a mood board, a design system or a palette, and reopen your latest palettes, all from one page.</li><li>The Library takes its look from colorpickr.app: each tool has its own color in the sidebar, and the Home and Pro pages use the website&#x27;s type and color strip. Boards, palettes and the Color Wheel stay neutral, so your colors look true.</li><li>A shorter sidebar: five main tools under Create, the rest under <b>More Tools</b>, and Mood Boards, Palettes and Themes fold away.</li><li>The Library opens larger, remembers its size and position, and goes full screen from the green button.</li></ul>]]></description>
-            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.17.0/ColorPickr-0.17.0.dmg" length="6442616" type="application/octet-stream" sparkle:edSignature="idI66poVFM0rlkdZbnKK9thUS3AG9W3b+/7NeDXpgCcwksHzIzB1bvghJ8MxgRFqYq1iBzXxaZGIbgs9cVNjBA=="/>
         </item>
     </channel>
 </rss>
