@@ -3,6 +3,16 @@
     <channel>
         <title>ColorPickr</title>
         <item>
+            <title>0.21.0</title>
+            <pubDate>Tue, 24 Nov 2026 19:24:32 +0000</pubDate>
+            <link>https://github.com/dhuet/colorbody-releases</link>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.21.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li><b>A clear way back</b> from the color picker: <b>‹ Back</b> on the color strip at the top, or click the strip. When you&#x27;ve changed the color, <b>Use This Color</b> sits right there too.</li><li><b>Contrast on your own background.</b> Under Readable as text?, a third check tests your color on a background you choose: pick it from the screen, choose it from a palette, or right-click a History swatch. Same verdict, ratio and Fix as the white and black checks, and the panel remembers it.</li></ul>]]></description>
+            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.21.0/ColorPickr-0.21.0.dmg" length="6970382" type="application/octet-stream" sparkle:edSignature="Xv2Mw7o2g2zngvlJQdnT2SO9dV54dQls9ay3SYoDV0zqXBfSbeuLG6s9tuUMlB/pHDMoJcy62E5Mf+YuLPPkBA=="/>
+        </item>
+        <item>
             <title>0.20.0</title>
             <pubDate>Tue, 24 Nov 2026 19:15:49 +0000</pubDate>
             <link>https://github.com/dhuet/colorbody-releases</link>
@@ -21,16 +31,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li><b>ColorPickr for Figma:</b> a new Figma plugin turns your palettes, themes and design systems into Figma variables and color styles. Themes keep Light and Dark modes, and every role stays linked to the palette color it uses.</li><li>New <b>For Figma</b> option under <b>Export › Copy to Clipboard</b> for palettes, themes and design systems. Free for palettes.</li><li><b>Buy ColorPickr Pro</b> now goes to the live store: one payment of $19.99, up to 3 devices across Mac and Chrome.</li></ul>]]></description>
             <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.19.0/ColorPickr-0.19.0.dmg" length="6667570" type="application/octet-stream" sparkle:edSignature="hfkJS1VvEhsWlDF14n9lzEU5R60nxvOpIRPkSdwP0EiO7oHx7IW2wwJbMHNMuKNZr63PAEuv7slFjZuuiHThBA=="/>
-        </item>
-        <item>
-            <title>0.18.0</title>
-            <pubDate>Mon, 26 Oct 2026 22:42:46 +0000</pubDate>
-            <link>https://github.com/dhuet/colorbody-releases</link>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li><b>Theme Builder:</b> a guided first theme for when starting from nothing is the hard part. Start from a photo, a color or a mood, take a recommended main color and accent, and see the result on real screens in light and dark, with the reasons it works. Free to try; saving needs Pro.</li><li>The Theme Builder is first under <b>Create</b>, on Home, in the panel&#x27;s Library card, in the <b>File</b> menu and in the command palette. The Color Wheel moved to <b>More Tools</b>.</li><li>Theme previews use a theme&#x27;s accent color for small highlights.</li></ul>]]></description>
-            <enclosure url="https://github.com/dhuet/colorbody-releases/releases/download/v0.18.0/ColorPickr-0.18.0.dmg" length="6648954" type="application/octet-stream" sparkle:edSignature="r/i/5y0OCeC3cj1U82CVnoXbcBqeXy4Xpd/K5aqSpoPipKP+hjFvP5TPURCJ6ve31wRKB2Zh/CC7sVYUBjaXCg=="/>
         </item>
     </channel>
 </rss>
